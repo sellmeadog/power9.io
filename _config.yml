@@ -2,4 +2,4 @@ title: Power 9
 description: "The unofficial Scryfall app for Magic: The Gathering players available on iOS (and Android... soon)."
 logo: ./images/app-icon.png
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
