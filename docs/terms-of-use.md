@@ -121,8 +121,7 @@ If you send us a valid, written Counter Notification meeting the requirements de
 
 Designated Copyright Agent
 Power 9
-Attn: Copyright Agent
-legal@power9.io
+[legal@power9.io](mailto:legal@power9.io)
 
 ## COPYRIGHT INFRINGEMENTS
 We respect the intellectual property rights of others. If you believe that any material available on or through the Site infringes upon any copyright you own or control, please immediately notify us using the contact information provided below (a “Notification”). A copy of your Notification will be sent to the person who posted or stored the material addressed in the Notification. Please be advised that pursuant to federal law you may be held liable for damages if you make material misrepresentations in a Notification. Thus, if you are not sure that material located on or linked to by the Site infringes your copyright, you should consider first contacting an attorney.
@@ -183,4 +182,4 @@ If any complaint with us is not satisfactorily resolved, you can contact the Com
 These Terms of Use and any policies or operating rules posted by us on the Site constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Terms of Use shall not operate as a waiver of such right or provision. These Terms of Use operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Terms of Use is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of Use and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms of Use or use of the Site. You agree that these Terms of Use will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use.
 
 ## CONTACT US 
-In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: legal@power9.io.
+In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: [legal@power9.io](mailto:legal@power9.io).
