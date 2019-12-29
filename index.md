@@ -1,4 +1,4 @@
 # Power 9
 
-Privacy Policy
-Terms of Use
+* Privacy Policy
+* [Terms of Use](/toc)
