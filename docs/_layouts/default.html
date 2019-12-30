@@ -13,12 +13,7 @@
 <body>
   <div class="wrapper">
     <header>
-      <h1>
-        {{ page.title | default: site.title }}
-      </h1>
-      {% if site.logo %}
-        <img src="{{site.logo | relative_url}}" alt="Power 9" width="96" />
-      {% endif %}
+      <h3>{{ site.title }}</h3>
     </header>
     <section>
       {{ content }}
